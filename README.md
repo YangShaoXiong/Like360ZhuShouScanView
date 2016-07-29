@@ -7,7 +7,7 @@
         android:layout_height="wrap_content"/>
 ```
 ## Thanks for
-* 素材来自于360手机助手，感谢它。
+* 图片素材来自于360手机助手，感谢它。
 
 ## License
 ```
